@@ -1,6 +1,6 @@
 🍀About me 
 
-I am a B.Tech student with a strong foundation in Salesforce development and a genuine passion for continuous learning.  
+I am a B.Tech student with a strong foundation in Salesforce  and a genuine passion for continuous learning.  
 Alongside Salesforce, I work with HTML, C++, Python, and SQL, and I am currently expanding my expertise in Artificial Intelligence and Machine Learning.
 
 I enjoy building structured, practical solutions and focusing on technologies that have real-world impact.  
